@@ -1,1 +1,0 @@
-package com.smashspot.stadiumrent.model;
